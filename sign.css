@@ -127,16 +127,17 @@ button {
     text-align: center;
     padding: 30px;
     width:400px;
+    min-width: 400px;
     height:500px;
     background-color: rgba(0, 0, 0, 0.75);
     border-radius: 30px;
 }
 
 .signupbox{
-    min-width: 600px;
     text-align: center;
     padding: 30px;
     width:600px;
+    min-width: 600px;
     height:780px;
     background-color: rgba(0, 0, 0, 0.75);
     border-radius: 30px;
